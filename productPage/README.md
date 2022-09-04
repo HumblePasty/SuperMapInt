@@ -1,4 +1,5 @@
 # productpage
+一个用来练手的静态产品页面
 
 ## Project setup
 ```
