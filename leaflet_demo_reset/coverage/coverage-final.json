@@ -1,0 +1,28 @@
+{
+  "D:\\Career\\SupermapIntern\\Task2_leafletDemo\\leaflet_demo_reset\\src\\components\\leafletDraw.vue": {
+    "path": "D:\\Career\\SupermapIntern\\Task2_leafletDemo\\leaflet_demo_reset\\src\\components\\leafletDraw.vue",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": null }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 1, "column": 0 },
+          "end": { "line": 1, "column": null }
+        },
+        "loc": {
+          "start": { "line": 1, "column": 0 },
+          "end": { "line": 1, "column": null }
+        }
+      }
+    },
+    "branchMap": {},
+    "s": { "0": 6 },
+    "f": { "0": 1 },
+    "b": {}
+  }
+}

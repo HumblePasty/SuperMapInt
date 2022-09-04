@@ -1,0 +1,6 @@
+projectKey=leafletDemo
+serverUrl=http://localhost:9000
+serverVersion=9.6.0.59041
+dashboardUrl=http://localhost:9000/dashboard?id=leafletDemo
+ceTaskId=AYLnRcIcLlKpDyZ96ZOc
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYLnRcIcLlKpDyZ96ZOc
